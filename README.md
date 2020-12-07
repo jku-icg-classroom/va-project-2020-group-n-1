@@ -19,7 +19,7 @@ For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.
 | [TODO]        | [TODO]      | [TODO]         |
 | [TODO]        | [TODO]      | [TODO]         |
 | [TODO]        | [TODO]      | [TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |
+| k1018852      | Hendrik     | Schlieper      |
 
 ### Dataset
 
