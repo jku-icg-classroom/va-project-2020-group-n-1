@@ -23,10 +23,14 @@ For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.
 
 ### Dataset
 
-* What is the dataset about?
-* Where did you get this dataset from (i.e., source of the dataset)?
+## Our dataset is a combination of several [Gapminder](https://www.gapminder.org/data/) datasets
 
-[TODO]
+* Economy -> Incomes and growth -> GDP total, yearly growth
+* Education -> Gender equality -> Gender ratio of mean years in school
+* Environment -> Emission -> CO2 emissions per person
+* Babies per woman (total fertility)
+
+The
 
 ## Usage
 
