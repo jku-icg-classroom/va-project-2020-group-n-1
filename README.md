@@ -17,7 +17,7 @@ For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.
 | Student ID    | First Name  | Last Name      |
 | --------------|-------------|----------------|
 | K11938626     | Vangel      | Paronov        |
-| [TODO]        | [TODO]      | [TODO]         |
+| k0151789      | Paula       | Lun            |
 | [TODO]        | [TODO]      | [TODO]         |
 | k1018852      | Hendrik     | Schlieper      |
 
