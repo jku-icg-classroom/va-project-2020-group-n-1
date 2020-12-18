@@ -18,7 +18,7 @@ For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.
 | --------------|-------------|----------------|
 | K11938626     | Vangel      | Paronov        |
 | k0151789      | Paula       | Lun            |
-| [TODO]        | [TODO]      | [TODO]         |
+| k11707630        | Johannes      | Kröpfl         |
 | k1018852      | Hendrik     | Schlieper      |
 
 ### Dataset
