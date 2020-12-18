@@ -28,11 +28,24 @@ For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.
 * Economy -> Incomes and growth -> GDP total, yearly growth
 * Education -> Gender equality -> Gender ratio of mean years in school
 * Environment -> Emission -> CO2 emissions per person
-* Babies per woman (total fertility)
+* Health -> New Born & Infants -> Babies per woman (total fertility)
 
-The
+Economy -> Economic Situation -> Hourly compensation
+Economy -> Economic Situation -> Working hours per week
+Economy -> Incomes and growth -> Income
+Health -> Mental Health -> Suicide/100k people 
+Health -> Nutrition -> Food Supply
+Health -> Risk Factors -> Body Mass Index/Fat in blood/Blood pressure
+Economy -> Poverty & Inequality -> average age of dollar billionaires
+Economy -> Poverty & Inequality -> dollar billionaires
+Education -> Gender equality -> ratio girls/boys in school
 
 ## Usage
+
+proposal:
+descriptive statistics -> line chart to show trends over time e.g. fertility, co2 emissions per person or boxplots using two selected years to show change over time or bar charts to show ranking of suicide, dollar billionaires,...
+correlations between attributes -> use heatmap to answer question of does hourly compensation, working hours per week or income correlate to suicide rate, intake of calories, BMI, fat in blood, blood pressure?
+cluster similar items -> max. 4 attributes (x, y axis, category, size) in first visualization selectable by e.g. year, continent, country, second visualization detail of first visualization
 
 ### Locally
 Checkout this repo and change into the folder:
