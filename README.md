@@ -36,18 +36,15 @@ proposal additional dataset:
 * Economy -> Incomes and growth -> Income
 * Health -> Mental Health -> Suicide/100k people 
 * Health -> Nutrition -> Food Supply
-* Health -> Risk Factors -> Body Mass Index/Fat in blood/Blood pressure
 * Economy -> Poverty & Inequality -> average age of dollar billionaires
 * Economy -> Poverty & Inequality -> dollar billionaires
-* Education -> Gender equality -> ratio girls/boys in school
+
 
 ## Usage
 
-proposal/idea:
-* descriptive statistics -> line chart to show trends over time e.g. fertility, co2 emissions per person or boxplots using two selected years to show change over time or bar       charts to show ranking of suicide, dollar billionaires,...
-* correlations between attributes -> use heatmap to answer question of does hourly compensation, working hours per week or income correlate to suicide rate, intake of calories, BMI, fat in blood, blood pressure?
-* cluster similar items -> max. 4 attributes (x, y axis, category, size) in first visualization selectable by e.g. year, continent, country, second visualization detail of first visualization or additional information
-first visualization hourly compensation, working hours per week for x, y axis, category continent, size income?, filter year, continent, country -> second visualization income, fertility of respected country, year, continent -> brushin over second visualization shows additional information e.g histogram age and count of billionaires, suicide rate, co2 emission,...
+* descriptive statistics
+* correlations between attributes
+* cluster similar items
 
 ### Locally
 Checkout this repo and change into the folder:
