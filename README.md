@@ -29,8 +29,6 @@ For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.
 * Education -> Gender equality -> Gender ratio of mean years in school
 * Environment -> Emission -> CO2 emissions per person
 * Health -> New Born & Infants -> Babies per woman (total fertility)
-
-proposal additional dataset:
 * Economy -> Economic Situation -> Hourly compensation
 * Economy -> Economic Situation -> Working hours per week
 * Economy -> Incomes and growth -> Income
