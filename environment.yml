@@ -18,3 +18,5 @@ dependencies:
   - pandas
   - altair
   - geopandas 
+  - altair_viewer
+  - umap
