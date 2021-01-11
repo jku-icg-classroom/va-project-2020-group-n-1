@@ -19,4 +19,4 @@ dependencies:
   - altair
   - geopandas 
   - altair_viewer
-  - umap
+  - umap-learn
